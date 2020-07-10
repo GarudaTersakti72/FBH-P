@@ -13,4 +13,10 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
+$ git clone https://github.com/muhammadfathul/FBH-P
+
+$ cd FBH-P
+
+$ python2 fbh.py
+
 #Dah gitu ajah:v
